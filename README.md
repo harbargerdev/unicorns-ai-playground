@@ -59,6 +59,7 @@ Default <vscode_annotation details='%5B%7B%22title%22%3A%22hardcoded-credentials
 Username: admin
 Password: <You-Replaced-Password>
 ```
+**Warning:** These credentials are for development and testing purposes only. Replace them with secure credentials before deploying to production.
 
 ## Contributing
 This project is intended for learning and experimentation. Contributions are welcome! Feel free to open issues or submit pull requests.
