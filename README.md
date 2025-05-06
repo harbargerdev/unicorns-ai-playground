@@ -65,4 +65,5 @@ This project is intended for learning and experimentation. Contributions are wel
 
 License
 This project is licensed under the MIT License.
-Make sure to replace `SuperSecurePassword123!` with your actual desired password in both the `README.md` and the `devcontainer.json` file for consistency. Let me know if you need further adjustments!Make sure to replace `SuperSecurePassword123!` with your actual desired password in both the `README.md` and the `devcontainer.json` file for consistency. Let me know if you need further adjustments!
+
+Make sure to replace `SuperSecurePassword123!` with your actual desired password in both the `README.md` and the `devcontainer.json` file for consistency. Let me know if you need further adjustments!
