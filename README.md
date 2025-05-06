@@ -57,7 +57,7 @@ Dashboard: http://localhost:9600
 Default <vscode_annotation details='%5B%7B%22title%22%3A%22hardcoded-credentials%22%2C%22description%22%3A%22Embedding%20credentials%20in%20source%20code%20risks%20unauthorized%20access%22%7D%5D'> credentials</vscode_annotation>admin:
 ```
 Username: admin
-Password: SuperSecurePassword123!
+Password: <You-Replaced-Password>
 ```
 
 ## Contributing
@@ -66,4 +66,4 @@ This project is intended for learning and experimentation. Contributions are wel
 License
 This project is licensed under the MIT License.
 
-Make sure to replace `SuperSecurePassword123!` with your actual desired password in both the `README.md` and the `devcontainer.json` file for consistency. Let me know if you need further adjustments!
+Make sure to replace `<You-Replaced-Password>` with your actual desired password in both the `README.md` and the `devcontainer.json` file for consistency. Let me know if you need further adjustments!
