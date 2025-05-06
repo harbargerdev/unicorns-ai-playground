@@ -19,7 +19,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "docker pull opensearchproject/opensearch:latest && docker run -d -p 9200:9200 -p 9600:9600 -e \"discovery.type=single-node\" -e \"OPENSEARCH_INITIAL_ADMIN_PASSWORD=Th1s1sImporta@nt\" opensearchproject/opensearch:latest"
+	"postCreateCommand": "docker pull opensearchproject/opensearch:latest && docker run -d -p 9200:9200 -p 9600:9600 -e \"discovery.type=single-node\" -e \"OPENSEARCH_INITIAL_ADMIN_PASSWORD=<REPLACE-ME>\" opensearchproject/opensearch:latest"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
