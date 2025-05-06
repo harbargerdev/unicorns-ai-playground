@@ -63,7 +63,5 @@ Password: <You-Replaced-Password>
 ## Contributing
 This project is intended for learning and experimentation. Contributions are welcome! Feel free to open issues or submit pull requests.
 
-License
+## License
 This project is licensed under the MIT License.
-
-Make sure to replace `<You-Replaced-Password>` with your actual desired password in both the `README.md` and the `devcontainer.json` file for consistency. Let me know if you need further adjustments!
